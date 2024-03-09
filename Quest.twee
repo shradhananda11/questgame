@@ -1,0 +1,55 @@
+:: StoryTitle
+Quest
+
+
+:: StoryData
+{
+  "ifid": "E304EAB5-6D12-44F0-9FDD-5F5E83AD21C0",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "accept",
+  "zoom": 1
+}
+
+
+:: accept {"position":"525,650","size":"100,100"}
+You have decide to pivot and the sage tells you always choce courge and shows you a new path. You are now at a [[blue door]] 
+
+
+:: blue door {"position":"700,200","size":"100,100"}
+You have chosen the path of courage good choice. 
+But you are meet with a  Beast. Do you choose to [[confront it head-on]] or [[sneak past him]]?
+
+
+:: confront it head-on {"position":"800,450","size":"100,100"}
+You have made the right choice. You chose courage and are rewarded. You fiind the hidden gen you were at quest for
+
+
+:: drink the portion {"position":"950,250","size":"100,100"}
+If you have deicded to drink the portaion a fairy comes and transforms you into a rabbit so you can go down the rabbithole. The fairy guides you to a [[green door]] 
+
+
+
+:: green door {"position":"625,450","size":"100,100"}
+You have chosen the path of wisdome.You meet a wise sage who offers to share ancient knowledge with you. He tells you that the path in front of you is cursed. Will you [[accept]] their teachings, or [[question their motives]]?
+
+
+:: home {"position":"750,25","size":"100,100"}
+Welcome!
+You have entered the game quest.You are about to embark on an epic quest filled with adventure, challenges, and choices that will shape your journey You can either enter the [[portal]] and be transported or [[drink the portion]]
+
+
+
+:: portal {"position":"400,350","size":"100,100"}
+You have entred the  portal and have 2 doors infront of you.. You can either entre the [[green door]] or the [[blue door]]. The blue door is the door of courage. Chose this path if you are ready fraught with danger, but those who brave its challenges may find great rewards.
+The green door paves the way for the path of Wisdom: This path offers opportunities for knowledge and insight, but beware of deception and illusion.
+
+
+
+:: question their motives {"position":"975,650","size":"100,100"}
+Wisdom and knowlege comes from various ways by rejecting something that is unfmailer and keep wlaking you fall in a ditch and die. Start again from [[home]]
+
+
+:: sneak past him {"position":"1000,450","size":"100,100"}
+If you have selected to sneak past the beast a snake spots you and bites you! 
+Now you will have to start again from the [[home]]
